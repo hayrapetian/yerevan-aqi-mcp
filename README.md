@@ -2,6 +2,8 @@
 
 MCP server for real-time Yerevan city air quality data. Connects AI assistants directly to the [official Yerevan GIS platform](https://gis.yerevan.am) — no API key required.
 
+https://github.com/user-attachments/assets/757580fc-1061-4cb4-9c76-6526ccb19d80
+
 ## ✨ Features
 
 - **Real-time AQI** from 50+ sensors across the city

@@ -7,7 +7,7 @@
   "homepage": "https://github.com/hayrapetian/yerevan-aqi-mcp#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hayrapetian/yerevan-aqi-mcp.git"
+    "url": "git+https://github.com/hayrapetian/yerevan-aqi-mcp.git"
   },
   "keywords": [
     "mcp",
